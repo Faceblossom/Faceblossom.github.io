@@ -12,7 +12,7 @@ title                    : "LIU Yilu"
 title_separator          : "-"
 name                     : &name "LIU Yilu"
 description              : &description "personal description"
-url                      : https://faceblossom.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://Faceblossom.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yilu.liu/yilu.liu.github.io"
 
