@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: ""
+title: "Profile"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-:information_desk_person:Profile
-------
 
 I am currently a second-year Ph.D. student at [Department of Computer Science](https://www.cs.cityu.edu.hk/), [City University of Hong Kong (CityUHK)](https://www.cityu.edu.hk/). My supervisor is [Prof. Zhang Qingfu](https://www.cs.cityu.edu.hk/~qzhan7/index.html). 
 
@@ -18,7 +15,7 @@ My current research interests include network science (e.g., opinion maximizatio
 
 
 
-:trophy:Awards
+:trophy: Awards
 ------
 1. **Best Student Paper Award** of IEEE Congress on Evolutionary Computation, 2024.
 2. **National Scholarship** of Xidian University, 2022.
@@ -26,7 +23,7 @@ My current research interests include network science (e.g., opinion maximizatio
 
 
 
-:pencil:Publications
+:pencil: Publications
 ------
 **Journal Paper**
 1. **Yilu Liu**, Qingfu Zhang*, and Zhenkun Wang, “[Community opinion maximization in social networks](https://ieeexplore.ieee.org/abstract/document/10606097),” *IEEE Transactions on Evolutionary Computation*, Accepted, 2024.
