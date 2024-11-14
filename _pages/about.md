@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student at Department of Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/). [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a second-year Ph.D. student at [Department of Computer Science](https://www.cs.cityu.edu.hk/), [City University of Hong Kong (CityUHK)](https://www.cityu.edu.hk/). My supervisor is [Prof. Zhang Qingfu](https://www.cs.cityu.edu.hk/~qzhan7/index.html).
+
+Before joining CityUHK, I received my B.Eng and M.Eng degrees from [School of Artificial Intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/).
+
+My current research interests include network science (e.g., opinion maximization) and evolutionary computation (e.g., multi-objective optimization).
 
 A data-driven personal website
 ======
