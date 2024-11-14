@@ -1,3 +1,12 @@
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 :information_desk_person:Profile
 ------
 
