@@ -21,20 +21,20 @@ repository               : "Faceblossom/Faceblossom.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "002.png"
+  avatar           : "003.png"
   name             : "LIU Yilu"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student at CityUHK"
-  location         : "Hong Kong"
+  location         : #"Hong Kong"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "yilu.liu@my.cityu.edu.hk" 
+  email            : #"yilu.liu@my.cityu.edu.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=7414KGcpDPAC"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-5926-863X"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
