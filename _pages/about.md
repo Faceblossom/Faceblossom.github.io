@@ -19,7 +19,6 @@ Awards
 ------
 1. **Best Student Paper Award** of IEEE Congress on Evolutionary Computation, 2024.
 2. **National Scholarship** of Xidian University, 2022.
-3. **Huiding Scholarship** of Xidian University, 2022.
 
 
 
