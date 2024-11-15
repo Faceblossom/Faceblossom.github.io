@@ -15,7 +15,7 @@ My current research interests include network science (e.g., opinion maximizatio
 
 
 
-:trophy: Awards
+Awards
 ------
 1. **Best Student Paper Award** of IEEE Congress on Evolutionary Computation, 2024.
 2. **National Scholarship** of Xidian University, 2022.
@@ -23,7 +23,7 @@ My current research interests include network science (e.g., opinion maximizatio
 
 
 
-:pencil: Publications
+Publications
 ------
 **Journal Paper**
 1. **Yilu Liu**, Qingfu Zhang, and Zhenkun Wang, “[Community opinion maximization in social networks](https://ieeexplore.ieee.org/abstract/document/10606097),” *IEEE Transactions on Evolutionary Computation*, Accepted, 2024.
