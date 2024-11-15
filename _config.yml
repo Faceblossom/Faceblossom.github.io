@@ -21,7 +21,7 @@ repository               : "Faceblossom/yilu.liu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "02.png"
+  avatar           : "002.png"
   name             : "LIU Yilu"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student at CityUHK"
