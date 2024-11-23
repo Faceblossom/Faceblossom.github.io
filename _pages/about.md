@@ -26,7 +26,7 @@ Publications
 ------
 **Journal Paper**
 1. **Yilu Liu**, Qingfu Zhang, and Zhenkun Wang, “[Community opinion maximization in social networks](https://ieeexplore.ieee.org/abstract/document/10606097),” *IEEE Transactions on Evolutionary Computation*, Accepted, 2024.
-2. **Yilu Liu**, Jing Liu, and Kai Wu, “[Cost-effective competition on social networks: a multi-objective optimization perspective](https://www.sciencedirect.com/science/article/pii/S0020025522013366),” *Information Sciences*, vol. 620, pp. 31-46, 2023.
+2. **Yilu Liu**, Jing Liu, and Kai Wu, “[Cost-effective competition on social networks: A multi-objective optimization perspective](https://www.sciencedirect.com/science/article/pii/S0020025522013366),” *Information Sciences*, vol. 620, pp. 31-46, 2023.
 3. **Yilu Liu**, Jing Liu, and Xiangyi Teng, “[Single-particle optimization for network embedding pre-serving both local and global information](https://www.sciencedirect.com/science/article/pii/S2210650222000414),” *Swarm and Evolutionary Computation*, vol. 71, 101069, 2022.
 
 **Conference Paper**
