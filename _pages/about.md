@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year Ph.D. student at [Department of Computer Science](https://www.cs.cityu.edu.hk/), [City University of Hong Kong (CityUHK)](https://www.cityu.edu.hk/). My supervisor is [Prof. Zhang Qingfu](https://www.cs.cityu.edu.hk/~qzhan7/index.html). 
+I am currently a second-year Ph.D. student at [Department of Computer Science](https://www.cs.cityu.edu.hk/), [City University of Hong Kong (CityUHK)](https://www.cityu.edu.hk/), where I am very fortunate to be advised by [Prof. Zhang Qingfu](https://www.cs.cityu.edu.hk/~qzhan7/index.html). 
 
-Before joining CityUHK, I received my B.Eng and M.Eng degrees from [School of Artificial Intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/), in 2020 and 2023, respectively.
+Before joining in CityUHK, I received my B.Eng and M.Eng degrees from [School of Artificial Intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/), in 2020 and 2023, respectively.
 
 My current research interests include network science (e.g., opinion maximization) and evolutionary computation (e.g., multi-objective optimization).
 
@@ -27,7 +27,7 @@ Publications
 **Journal Paper**
 1. **Yilu Liu**, Qingfu Zhang, and Zhenkun Wang, “[Community opinion maximization in social networks](https://ieeexplore.ieee.org/abstract/document/10606097),” *IEEE Transactions on Evolutionary Computation*, Accepted, 2024.
 2. **Yilu Liu**, Jing Liu, and Kai Wu, “[Cost-effective competition on social networks: A multi-objective optimization perspective](https://www.sciencedirect.com/science/article/pii/S0020025522013366),” *Information Sciences*, vol. 620, pp. 31-46, 2023.
-3. **Yilu Liu**, Jing Liu, and Xiangyi Teng, “[Single-particle optimization for network embedding pre-serving both local and global information](https://www.sciencedirect.com/science/article/pii/S2210650222000414),” *Swarm and Evolutionary Computation*, vol. 71, 101069, 2022.
+3. **Yilu Liu**, Jing Liu, and Xiangyi Teng, “[Single-particle optimization for network embedding preserving both local and global information](https://www.sciencedirect.com/science/article/pii/S2210650222000414),” *Swarm and Evolutionary Computation*, vol. 71, 101069, 2022.
 
 **Conference Paper**
 1. **Yilu Liu**, Chengyu Lu, Xi Lin, and Qingfu Zhang, “[Many-objective cover problem: Discovering few solutions to cover many objectives](https://link.springer.com/chapter/10.1007/978-3-031-70085-9_5),” *International Conference on Parallel Problem Solving from Nature (PPSN)*, pp. 68-82, 2024.
