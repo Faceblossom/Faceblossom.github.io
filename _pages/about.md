@@ -7,19 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year Ph.D. student at [Department of Computer Science](https://www.cs.cityu.edu.hk/), [City University of Hong Kong (CityUHK)](https://www.cityu.edu.hk/), where I am very fortunate to be advised by [Prof. Zhang Qingfu](https://www.cs.cityu.edu.hk/~qzhan7/index.html). 
+I am currently a second-year Ph.D. student at [Department of Computer Science](https://www.cs.cityu.edu.hk/), [City University of Hong Kong (CityUHK)](https://www.cityu.edu.hk/), where I am very fortunate to be advised by [Prof. ZHANG Qingfu](https://www.cs.cityu.edu.hk/~qzhan7/index.html). 
 
-Before joining in CityUHK, I received my B.Eng and M.Eng degrees from [School of Artificial Intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/), in 2020 and 2023, respectively.
+Before joining in CityUHK, I received my B.Eng and M.Eng degrees from [School of Artificial Intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/), in 2020 and 2023, respectively. With the supervision of [Prof. LIU Jing](https://faculty.xidian.edu.cn/LJ22/zh_CN/index/339621/list/), I have spent delightful seven years in Xi'an and Guangzhou.
 
-My current research interests include network science (e.g., opinion maximization) and evolutionary computation (e.g., multi-objective optimization).
-
-
-
-Awards
-------
-1. **Best Student Paper Award** of IEEE Congress on Evolutionary Computation, 2024.
-2. **National Scholarship** of Xidian University, 2022.
-
+My current research interests can be summarized as "Few for Many", including applications in social networks (e.g., opinion maximization) and methodologies of evolutionary computation (e.g., many-objective optimization).
 
 
 Publications
@@ -32,5 +24,12 @@ Publications
 **Conference Paper**
 1. **Yilu Liu**, Chengyu Lu, Xi Lin, and Qingfu Zhang, “[Many-objective cover problem: Discovering few solutions to cover many objectives](https://link.springer.com/chapter/10.1007/978-3-031-70085-9_5),” *International Conference on Parallel Problem Solving from Nature (PPSN)*, pp. 68-82, 2024.
 2. Chengyu Lu, **Yilu Liu**, and Qingfu Zhang, “[MOEA/D-CMA made better with (1+1)-CMA-ES](https://ieeexplore.ieee.org/abstract/document/10612007),” *IEEE Congress on Evolutionary Computation (CEC)*, pp. 1-8, 2024.
+
+
+Selected Awards
+------
+1. **Best Student Paper Award** of IEEE Congress on Evolutionary Computation, 2024.
+2. **National Scholarship** of Xidian University, 2022.
+3. **Social Scholarship** of Xidian University, 2022.
 
 
