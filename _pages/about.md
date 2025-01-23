@@ -23,7 +23,8 @@ Publications
 
 **Conference Paper**
 1. **Yilu Liu**, Chengyu Lu, Xi Lin, and Qingfu Zhang, “[Many-objective cover problem: Discovering few solutions to cover many objectives](https://link.springer.com/chapter/10.1007/978-3-031-70085-9_5),” *International Conference on Parallel Problem Solving from Nature (PPSN)*, pp. 68-82, 2024.
-2. Chengyu Lu, **Yilu Liu**, and Qingfu Zhang, “[MOEA/D-CMA made better with (1+1)-CMA-ES](https://ieeexplore.ieee.org/abstract/document/10612007),” *IEEE Congress on Evolutionary Computation (CEC)*, pp. 1-8, 2024.
+2. Xi Lin, **Yilu Liu**, Xiaoyuan Zhang, Fei Liu, Zhenkun Wang, and Qingfu Zhang, “[Few for Many: Tchebycheff set scalarization for many-objective optimization](https://arxiv.org/pdf/2405.19650),” *International Conference on Learning Representations (ICLR)*, Accepted, 2025.
+3. Chengyu Lu, **Yilu Liu**, and Qingfu Zhang, “[MOEA/D-CMA made better with (1+1)-CMA-ES](https://ieeexplore.ieee.org/abstract/document/10612007),” *IEEE Congress on Evolutionary Computation (CEC)*, pp. 1-8, 2024.
 
 
 Selected Awards
