@@ -13,7 +13,7 @@ Before joining in CityUHK, I received my B.Eng and M.Eng degrees from [School of
 
 My current research interests can be summarized as "Few for Many", mainly including the following two aspects:
 1. **Social Network Analysis**: Finding a small number of social members to serve many others.
-2. **Multi-Objective Optimization**: Finding a small number of solutions to serve many objectives.
+2. **Multiobjective Optimization**: Finding a small number of solutions to serve many objectives.
 
 
 Publications
