@@ -11,7 +11,7 @@ I am currently a second-year Ph.D. student at [Department of Computer Science](h
 
 Before joining in CityUHK, I received my B.Eng and M.Eng degrees from [School of Artificial Intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/), in 2020 and 2023, respectively. With the supervision of [Prof. LIU Jing](https://faculty.xidian.edu.cn/LJ22/zh_CN/index/339621/list/), I have spent delightful seven years in Xi'an and Guangzhou.
 
-My current research interests can be summarized as "Few for Many", including applications in social networks (e.g., opinion maximization) and methodologies of evolutionary computation (e.g., many-objective optimization).
+My current research interests can be summarized as "Few for Many", including applications in social networks (e.g., Finding a small number of social members to serve many others) and methodologies of multi-objective optimization (e.g., Finding a small number of solutions to serve many objectives).
 
 
 Publications
