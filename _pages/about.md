@@ -19,9 +19,10 @@ My current research interests can be summarized as "Few for Many", mainly includ
 Publications
 ------
 **Journal Paper**
-1. **Yilu Liu**, Qingfu Zhang, and Zhenkun Wang, “[Community opinion maximization in social networks](https://ieeexplore.ieee.org/abstract/document/10606097),” *IEEE Transactions on Evolutionary Computation*, Accepted, 2024.
-2. **Yilu Liu**, Jing Liu, and Kai Wu, “[Cost-effective competition on social networks: A multi-objective optimization perspective](https://www.sciencedirect.com/science/article/pii/S0020025522013366),” *Information Sciences*, vol. 620, pp. 31-46, 2023.
-3. **Yilu Liu**, Jing Liu, and Xiangyi Teng, “[Single-particle optimization for network embedding preserving both local and global information](https://www.sciencedirect.com/science/article/pii/S2210650222000414),” *Swarm and Evolutionary Computation*, vol. 71, 101069, 2022.
+1. **Yilu Liu**, Xi Lin, and Qingfu Zhang, “[Leader-Follower Disagreement Minimization in Social Networks](https://ieeexplore.ieee.org/document/10999065),” *IEEE Transactions on Evolutionary Computation*, Accepted, 2025.
+2. **Yilu Liu**, Qingfu Zhang, and Zhenkun Wang, “[Community opinion maximization in social networks](https://ieeexplore.ieee.org/abstract/document/10606097),” *IEEE Transactions on Evolutionary Computation*, Accepted, 2024.
+3. **Yilu Liu**, Jing Liu, and Kai Wu, “[Cost-effective competition on social networks: A multi-objective optimization perspective](https://www.sciencedirect.com/science/article/pii/S0020025522013366),” *Information Sciences*, vol. 620, pp. 31-46, 2023.
+4. **Yilu Liu**, Jing Liu, and Xiangyi Teng, “[Single-particle optimization for network embedding preserving both local and global information](https://www.sciencedirect.com/science/article/pii/S2210650222000414),” *Swarm and Evolutionary Computation*, vol. 71, 101069, 2022.
 
 **Conference Paper**
 1. **Yilu Liu**, Chengyu Lu, Xi Lin, and Qingfu Zhang, “[Many-objective cover problem: Discovering few solutions to cover many objectives](https://link.springer.com/chapter/10.1007/978-3-031-70085-9_5),” *International Conference on Parallel Problem Solving from Nature (PPSN)*, pp. 68-82, 2024.
