@@ -21,10 +21,10 @@ repository               : "Faceblossom/Faceblossom.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "01.png"
+  avatar           : "00.png"
   name             : "LIU Yilu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student at CityUHK"
+  bio              : "Ph.D. Candidate at CityUHK"
   location         : #"Hong Kong"
   employer         : #"Red Brick University"
   uri              : # URL
