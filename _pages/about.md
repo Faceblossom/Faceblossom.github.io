@@ -32,8 +32,16 @@ Publications
 
 Selected Awards
 ------
-1. **Best Student Paper Award** of IEEE Congress on Evolutionary Computation, 2024.
-2. **National Scholarship** of Xidian University, 2022.
-3. **Social Scholarship** of Xidian University, 2022.
+**Ph.D. Stage**
+1. **[Best Student Paper Award](https://2024.ieeewcci.org/program/awards)**, IEEE Congress on Evolutionary Computation, 2024.
 
+**M.Eng. Stage** 
+1. **National Scholarship**, Xidian University, 2022.
+2. **Social Scholarship**, Xidian University, 2022.
+3. **Outstanding Student**, Xidian University, 2021.
+
+**B.Eng. Stage**
+1. **Provincial First Prize**, China Undergraduate Mathematical Contest in Modeling, 2018.
+2. **First Prize Scholarship**, Xidian University, 2018.
+3. **Outstanding Student**, Xidian University, 2018.
 
