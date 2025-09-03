@@ -35,7 +35,7 @@ Selected Awards
 ------
 **Ph.D. Stage**
 1. **[Research Tuition Scholarship](https://scholars.cityu.edu.hk/en/prizes/research-tuition-scholarship-2206)**, City University of Hong Kong, 2025. (23/351)
-2. **[Best Student Paper Award](https://2024.ieeewcci.org/program/awards)**, IEEE Congress on Evolutionary Computation, 2024. (1/199)
+2. **[Best Student Paper Award](https://2024.ieeewcci.org/program/awards)**, IEEE Congress on Evolutionary Computation, 2024. (1/343)
 
 **M.Eng. Stage** 
 1. **National Scholarship**, Xidian University, 2022.
