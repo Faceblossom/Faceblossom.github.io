@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year Ph.D. student at [Department of Computer Science](https://www.cs.cityu.edu.hk/), [City University of Hong Kong (CityUHK)](https://www.cityu.edu.hk/), where I am very fortunate to be advised by [Prof. ZHANG Qingfu](https://www.cs.cityu.edu.hk/~qzhan7/index.html). 
+I am currently a third-year Ph.D. student at Department of Computer Science, City University of Hong Kong (CityUHK), where I am very fortunate to be advised by [Prof. ZHANG Qingfu](https://www.cs.cityu.edu.hk/~qzhan7/index.html). 
 
-Before joining in CityUHK, I received my B.Eng and M.Eng degrees from [School of Artificial Intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/), in 2020 and 2023, respectively. With the supervision of [Prof. LIU Jing](https://faculty.xidian.edu.cn/LJ22/zh_CN/index/339621/list/), I have spent delightful seven years in Xi'an and Guangzhou.
+Before joining in CityUHK, I received my B.Eng and M.Eng degrees from School of Artificial Intelligence, Xidian University, in 2020 and 2023, respectively. With the supervision of [Prof. LIU Jing](https://faculty.xidian.edu.cn/LJ22/zh_CN/index/339621/list/), I have spent delightful seven years in Xi'an and Guangzhou.
 
 My current research interests can be summarized as "Few for Many", mainly including the following two aspects:
 1. **Social Network Analysis**: Finding few social members to serve many others.
@@ -19,18 +19,18 @@ My current research interests can be summarized as "Few for Many", mainly includ
 Publications
 ------
 **Journal Paper**
-1. [[TEVC]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235) **Yilu Liu**, Xi Lin, Liang Zhao, and Qingfu Zhang, “[Few for many: Towards efficient and flexible many-objective optimization](https://ieeexplore.ieee.org/document/11268464),” *IEEE Transactions on Evolutionary Computation*, Accepted, 2025. (**IF: 12.0, SCI-I**)
-2. [[TEVC]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235) **Yilu Liu**, Xi Lin, and Qingfu Zhang, “[Leader-follower disagreement minimization in social networks](https://ieeexplore.ieee.org/document/10999065),” *IEEE Transactions on Evolutionary Computation*, Accepted, 2025. (**IF: 12.0, SCI-I**)
-3. [[TEVC]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235) **Yilu Liu**, Qingfu Zhang, and Zhenkun Wang, “[Community opinion maximization in social networks](https://ieeexplore.ieee.org/abstract/document/10606097),” *IEEE Transactions on Evolutionary Computation*, vol. 29, no. 5, pp. 1760-1773, 2024. (**IF: 11.7, SCI-I**)
-4. [[INS]](https://www.sciencedirect.com/journal/information-sciences) **Yilu Liu**, Jing Liu, and Kai Wu, “[Cost-effective competition on social networks: A multi-objective optimization perspective](https://www.sciencedirect.com/science/article/pii/S0020025522013366),” *Information Sciences*, vol. 620, pp. 31-46, 2023. (**IF: 8.2, SCI-I**)
-5. [[SWEVO]](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation) **Yilu Liu**, Jing Liu, and Xiangyi Teng, “[Single-particle optimization for network embedding preserving both local and global information](https://www.sciencedirect.com/science/article/pii/S2210650222000414),” *Swarm and Evolutionary Computation*, vol. 71, 101069, 2022. (**IF: 10.3, SCI-I**)
-6. [[CHAOS]](https://www.sciencedirect.com/journal/chaos-solitons-and-fractals) Chenjie Gao, Xiangyi Teng, **Yilu Liu**, and Jing Liu, “[A bilevel-optimization-driven evolutionary algorithm for community detection in multilayer networks with significant topological differences](https://www.sciencedirect.com/science/article/pii/S0960077925009348),” *Chaos, Solitons & Fractals*, vol. 200, 116921, 2025. (**IF: 5.6, SCI-I**)
+1. [[TEVC]](https://ieeexplore.ieee.org/document/11268464) **Yilu Liu**, Xi Lin, Liang Zhao, and Qingfu Zhang, “Few for many: Towards efficient and flexible many-objective optimization,” *IEEE Transactions on Evolutionary Computation*, Accepted, 2025. (**IF: 12.0, SCI-I**)
+2. [[TEVC]](https://ieeexplore.ieee.org/document/10999065) **Yilu Liu**, Xi Lin, and Qingfu Zhang, “Leader-follower disagreement minimization in social networks,” *IEEE Transactions on Evolutionary Computation*, Accepted, 2025. (**IF: 12.0, SCI-I**)
+3. [[TEVC]](https://ieeexplore.ieee.org/abstract/document/10606097) **Yilu Liu**, Qingfu Zhang, and Zhenkun Wang, “Community opinion maximization in social networks,” *IEEE Transactions on Evolutionary Computation*, vol. 29, no. 5, pp. 1760-1773, 2024. (**IF: 11.7, SCI-I**)
+4. [[INS]](https://www.sciencedirect.com/science/article/pii/S0020025522013366) **Yilu Liu**, Jing Liu, and Kai Wu, “Cost-effective competition on social networks: A multi-objective optimization perspective,” *Information Sciences*, vol. 620, pp. 31-46, 2023. (**IF: 8.2, SCI-I**)
+5. [[SWEVO]](https://www.sciencedirect.com/science/article/pii/S2210650222000414) **Yilu Liu**, Jing Liu, and Xiangyi Teng, “Single-particle optimization for network embedding preserving both local and global information,” *Swarm and Evolutionary Computation*, vol. 71, 101069, 2022. (**IF: 10.3, SCI-I**)
+6. [[CHAOS]](https://www.sciencedirect.com/science/article/pii/S0960077925009348) Chenjie Gao, Xiangyi Teng, **Yilu Liu**, and Jing Liu, “A bilevel-optimization-driven evolutionary algorithm for community detection in multilayer networks with significant topological differences,” *Chaos, Solitons & Fractals*, vol. 200, 116921, 2025. (**IF: 5.6, SCI-I**)
 
 **Conference Paper**
-1. [[PPSN'24]](https://ppsn2024.fh-ooe.at/) **Yilu Liu**, Chengyu Lu, Xi Lin, and Qingfu Zhang, “[Many-objective cover problem: Discovering few solutions to cover many objectives](https://link.springer.com/chapter/10.1007/978-3-031-70085-9_5),” *International Conference on Parallel Problem Solving from Nature*, pp. 68-82, 2024. (**CCF-B**)
-2. [[AAAI'26]](https://aaai.org/conference/aaai/aaai-26/) Fei Liu (Co-First), **Yilu Liu** (Co-First), Qingfu Zhang, Xialiang Tong, and Mingxuan Yuan, “[EoH-S: Evolution of heuristic set using LLMs for automated heuristic design](https://arxiv.org/pdf/2508.03082),” *Annual AAAI Conference on Artificial Intelligence*, Accepted, 2026. (**CCF-A**)
-3. [[ICLR'25]](https://iclr.cc/Conferences/2025) Xi Lin, **Yilu Liu**, Xiaoyuan Zhang, Fei Liu, Zhenkun Wang, and Qingfu Zhang, “[Few for many: Tchebycheff set scalarization for many-objective optimization](https://arxiv.org/pdf/2405.19650),” *International Conference on Learning Representations*, Accepted, 2025.
-4. [[CEC'24]](https://2024.ieeewcci.org/) Chengyu Lu, **Yilu Liu**, and Qingfu Zhang, “[MOEA/D-CMA made better with (1+1)-CMA-ES](https://ieeexplore.ieee.org/abstract/document/10612007),” *IEEE Congress on Evolutionary Computation*, pp. 1-8, 2024.
+1. [[PPSN'24]](https://link.springer.com/chapter/10.1007/978-3-031-70085-9_5) **Yilu Liu**, Chengyu Lu, Xi Lin, and Qingfu Zhang, “Many-objective cover problem: Discovering few solutions to cover many objectives,” *International Conference on Parallel Problem Solving from Nature*, pp. 68-82, 2024. (**CCF-B**)
+2. [[AAAI'26]](https://arxiv.org/pdf/2508.03082) Fei Liu (Co-First), **Yilu Liu** (Co-First), Qingfu Zhang, Xialiang Tong, and Mingxuan Yuan, “EoH-S: Evolution of heuristic set using LLMs for automated heuristic design,” *Annual AAAI Conference on Artificial Intelligence*, Accepted, 2026. (**CCF-A**)
+3. [[ICLR'25]](https://arxiv.org/pdf/2405.19650) Xi Lin, **Yilu Liu**, Xiaoyuan Zhang, Fei Liu, Zhenkun Wang, and Qingfu Zhang, “Few for many: Tchebycheff set scalarization for many-objective optimization,” *International Conference on Learning Representations*, Accepted, 2025.
+4. [[CEC'24]](https://ieeexplore.ieee.org/abstract/document/10612007) Chengyu Lu, **Yilu Liu**, and Qingfu Zhang, “MOEA/D-CMA made better with (1+1)-CMA-ES,” *IEEE Congress on Evolutionary Computation*, pp. 1-8, 2024.
 
 
 Selected Awards
