@@ -17,9 +17,9 @@ My current research interests can be summarized as "Few for Many", mainly includ
 2. **Multiobjective Optimization**: Finding few solutions to optimize many objectives.
 
 
-:books:Publications
+Publications
 ------
-:green_book:**Journal Paper**
+**Journal Paper**
 1. [[TEVC'25]](https://ieeexplore.ieee.org/document/11268464) **Yilu Liu**, Xi Lin, Liang Zhao, and Qingfu Zhang, “Few for many: Towards efficient and flexible many-objective optimization,” *IEEE Transactions on Evolutionary Computation (IF: 12.0, SCI-I).* [(Code)](https://github.com/Faceblossom/Few-for-Many)
 2. [[TEVC'25]](https://ieeexplore.ieee.org/document/10999065) **Yilu Liu**, Xi Lin, and Qingfu Zhang, “Leader-follower disagreement minimization in social networks,” *IEEE Transactions on Evolutionary Computation (IF: 12.0, SCI-I).*
 3. [[TEVC'24]](https://ieeexplore.ieee.org/abstract/document/10606097) **Yilu Liu**, Qingfu Zhang, and Zhenkun Wang, “Community opinion maximization in social networks,” *IEEE Transactions on Evolutionary Computation (IF: 11.7, SCI-I).*
@@ -27,7 +27,7 @@ My current research interests can be summarized as "Few for Many", mainly includ
 5. [[SWEVO'22]](https://www.sciencedirect.com/science/article/pii/S2210650222000414) **Yilu Liu**, Jing Liu, and Xiangyi Teng, “Single-particle optimization for network embedding preserving both local and global information,” *Swarm and Evolutionary Computation (IF: 10.3, SCI-I).*
 6. [[CHAOS'25]](https://www.sciencedirect.com/science/article/pii/S0960077925009348) Chenjie Gao, Xiangyi Teng, **Yilu Liu**, and Jing Liu, “A bilevel-optimization-driven evolutionary algorithm for community detection in multilayer networks with significant topological differences,” *Chaos, Solitons & Fractals (IF: 5.6, SCI-I).*
 
-:blue_book:**Conference Paper**
+**Conference Paper**
 1. [[PPSN'24]](https://link.springer.com/chapter/10.1007/978-3-031-70085-9_5) **Yilu Liu**, Chengyu Lu, Xi Lin, and Qingfu Zhang, “Many-objective cover problem: Discovering few solutions to cover many objectives,” *International Conference on Parallel Problem Solving from Nature (CCF-B).* [(Code)](https://github.com/Faceblossom/Few-for-Many)
 2. [[AAAI'26]](https://arxiv.org/pdf/2508.03082) Fei Liu (Co-First), **Yilu Liu** (Co-First), Qingfu Zhang, Xialiang Tong, and Mingxuan Yuan, “EoH-S: Evolution of heuristic set using LLMs for automated heuristic design,” *Annual AAAI Conference on Artificial Intelligence (CCF-A).* [(Code)](https://github.com/FeiLiu36/EoH-S)
 3. [[ICLR'25]](https://arxiv.org/pdf/2405.19650) Xi Lin, **Yilu Liu**, Xiaoyuan Zhang, Fei Liu, Zhenkun Wang, and Qingfu Zhang, “Few for many: Tchebycheff set scalarization for many-objective optimization,” *International Conference on Learning Representations.*
@@ -36,16 +36,16 @@ My current research interests can be summarized as "Few for Many", mainly includ
 
 :trophy:Selected Awards
 ------
-:balloon:**Ph.D. Stage**
+**Ph.D. Stage**
 1. **[Research Tuition Scholarship](https://scholars.cityu.edu.hk/en/prizes/research-tuition-scholarship-2206)**, City University of Hong Kong, 2025. (23/351)
 2. **[Best Student Paper Award](https://2024.ieeewcci.org/program/awards)**, IEEE Congress on Evolutionary Computation, 2024. (1/343)
 
-:mortar_board:**M.Eng. Stage** 
+**M.Eng. Stage** 
 1. **National Scholarship**, Xidian University, 2022.
 2. **Social Scholarship**, Xidian University, 2022.
 3. **Outstanding Student**, Xidian University, 2021.
 
-:mortar_board:**B.Eng. Stage**
+**B.Eng. Stage**
 1. **Provincial First Prize**, China Undergraduate Mathematical Contest in Modeling, 2018.
 2. **First Prize Scholarship**, Xidian University, 2018.
 3. **Outstanding Student**, Xidian University, 2018.
