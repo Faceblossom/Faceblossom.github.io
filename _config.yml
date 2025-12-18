@@ -33,7 +33,7 @@ author:
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-5926-863X"
+  orcid            : #"https://orcid.org/my-orcid?orcid=0000-0002-5926-863X"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=7414KGcpDPAC"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
