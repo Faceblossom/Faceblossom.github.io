@@ -34,7 +34,7 @@ Publications
 4. [[CEC'24]](https://ieeexplore.ieee.org/abstract/document/10612007) Chengyu Lu, **Yilu Liu**, and Qingfu Zhang, “MOEA/D-CMA made better with (1+1)-CMA-ES,” *IEEE Congress on Evolutionary Computation.*
 
 
-:trophy:Selected Awards
+Selected Awards
 ------
 **Ph.D. Stage**
 1. **[Research Tuition Scholarship](https://scholars.cityu.edu.hk/en/prizes/research-tuition-scholarship-2206)**, City University of Hong Kong, 2025. (23/351)
