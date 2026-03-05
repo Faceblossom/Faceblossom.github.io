@@ -19,6 +19,7 @@ My current research interests can be summarized as "Few for Many", mainly includ
 
 Publications
 ------
+
 **Journal Paper**
 1. [[TEVC'25]](https://ieeexplore.ieee.org/document/11268464) **Yilu Liu**, Xi Lin, Liang Zhao, and Qingfu Zhang, “Few for many: Towards efficient and flexible many-objective optimization,” *IEEE Transactions on Evolutionary Computation (IF: 12.0, SCI-I).* [(Code)](https://github.com/Faceblossom/Few-for-Many)
 2. [[TEVC'25]](https://ieeexplore.ieee.org/document/10999065) **Yilu Liu**, Xi Lin, and Qingfu Zhang, “Leader-follower disagreement minimization in social networks,” *IEEE Transactions on Evolutionary Computation (IF: 12.0, SCI-I).*
@@ -28,10 +29,11 @@ Publications
 6. [[CHAOS'25]](https://www.sciencedirect.com/science/article/pii/S0960077925009348) Chenjie Gao, Xiangyi Teng, **Yilu Liu**, and Jing Liu, “A bilevel-optimization-driven evolutionary algorithm for community detection in multilayer networks with significant topological differences,” *Chaos, Solitons & Fractals (IF: 5.6, SCI-I).*
 
 **Conference Paper**
+
 1. [[PPSN'24]](https://link.springer.com/chapter/10.1007/978-3-031-70085-9_5) **Yilu Liu**, Chengyu Lu, Xi Lin, and Qingfu Zhang, “Many-objective cover problem: Discovering few solutions to cover many objectives,” *International Conference on Parallel Problem Solving from Nature (CCF-B).* [(Code)](https://github.com/Faceblossom/Few-for-Many)
-2. [[AAAI'26]](https://arxiv.org/pdf/2508.03082) Fei Liu (Co-First), **Yilu Liu** (Co-First), Qingfu Zhang, Xialiang Tong, and Mingxuan Yuan, “EoH-S: Evolution of heuristic set using LLMs for automated heuristic design,” *Annual AAAI Conference on Artificial Intelligence (CCF-A).* [(Code)](https://github.com/FeiLiu36/EoH-S)
-3. [[ICLR'25]](https://arxiv.org/pdf/2405.19650) Xi Lin, **Yilu Liu**, Xiaoyuan Zhang, Fei Liu, Zhenkun Wang, and Qingfu Zhang, “Few for many: Tchebycheff set scalarization for many-objective optimization,” *International Conference on Learning Representations.*
-4. [[CEC'24]](https://ieeexplore.ieee.org/abstract/document/10612007) Chengyu Lu, **Yilu Liu**, and Qingfu Zhang, “MOEA/D-CMA made better with (1+1)-CMA-ES,” *IEEE Congress on Evolutionary Computation.*
+2. [[AAAI'26]](https://arxiv.org/pdf/2508.03082) Fei Liu (Co-First), **Yilu Liu (Co-First)**, Qingfu Zhang, Xialiang Tong, and Mingxuan Yuan, “EoH-S: Evolution of heuristic set using LLMs for automated heuristic design,” *Annual AAAI Conference on Artificial Intelligence (CCF-A).* [(Code)](https://github.com/FeiLiu36/EoH-S)
+3. [[ICLR'25]](https://arxiv.org/pdf/2405.19650) Xi Lin, **Yilu Liu**, Xiaoyuan Zhang, Fei Liu, Zhenkun Wang, and Qingfu Zhang, “Few for many: Tchebycheff set scalarization for many-objective optimization,” *International Conference on Learning Representations (CCF-A).*
+4. [[CEC'24]](https://ieeexplore.ieee.org/abstract/document/10612007) Chengyu Lu, **Yilu Liu**, and Qingfu Zhang, “MOEA/D-CMA made better with (1+1)-CMA-ES,” *IEEE Congress on Evolutionary Computation (CCF-C).*
 
 
 Selected Awards
