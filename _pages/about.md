@@ -21,12 +21,12 @@ Publications
 ------
 
 **Journal Paper**
-1. [[TEVC'25]](https://ieeexplore.ieee.org/document/11268464) **Yilu Liu**, Xi Lin, Liang Zhao, and Qingfu Zhang, “Few for many: Towards efficient and flexible many-objective optimization,” *IEEE Transactions on Evolutionary Computation (IF: 12.0, SCI-I).* [(Code)](https://github.com/Faceblossom/Few-for-Many)
-2. [[TEVC'25]](https://ieeexplore.ieee.org/document/10999065) **Yilu Liu**, Xi Lin, and Qingfu Zhang, “Leader-follower disagreement minimization in social networks,” *IEEE Transactions on Evolutionary Computation (IF: 12.0, SCI-I).*
-3. [[TEVC'24]](https://ieeexplore.ieee.org/abstract/document/10606097) **Yilu Liu**, Qingfu Zhang, and Zhenkun Wang, “Community opinion maximization in social networks,” *IEEE Transactions on Evolutionary Computation (IF: 11.7, SCI-I).*
-4. [[INS'23]](https://www.sciencedirect.com/science/article/pii/S0020025522013366) **Yilu Liu**, Jing Liu, and Kai Wu, “Cost-effective competition on social networks: A multi-objective optimization perspective,” *Information Sciences (IF: 8.2, SCI-I).*
-5. [[SWEVO'22]](https://www.sciencedirect.com/science/article/pii/S2210650222000414) **Yilu Liu**, Jing Liu, and Xiangyi Teng, “Single-particle optimization for network embedding preserving both local and global information,” *Swarm and Evolutionary Computation (IF: 10.3, SCI-I).*
-6. [[CHAOS'25]](https://www.sciencedirect.com/science/article/pii/S0960077925009348) Chenjie Gao, Xiangyi Teng, **Yilu Liu**, and Jing Liu, “A bilevel-optimization-driven evolutionary algorithm for community detection in multilayer networks with significant topological differences,” *Chaos, Solitons & Fractals (IF: 5.6, SCI-I).*
+1. [[TEVC'25]](https://ieeexplore.ieee.org/document/11268464) **Yilu Liu**, Xi Lin, Liang Zhao, and Qingfu Zhang, “Few for many: Towards efficient and flexible many-objective optimization,” *IEEE Transactions on Evolutionary Computation (IF: 12.0, SCI-I, 2025).* [(Code)](https://github.com/Faceblossom/Few-for-Many)
+2. [[TEVC'25]](https://ieeexplore.ieee.org/document/10999065) **Yilu Liu**, Xi Lin, and Qingfu Zhang, “Leader-follower disagreement minimization in social networks,” *IEEE Transactions on Evolutionary Computation (IF: 12.0, SCI-I, 2025).*
+3. [[TEVC'24]](https://ieeexplore.ieee.org/abstract/document/10606097) **Yilu Liu**, Qingfu Zhang, and Zhenkun Wang, “Community opinion maximization in social networks,” *IEEE Transactions on Evolutionary Computation (IF: 11.7, SCI-I, 2024).*
+4. [[INS'23]](https://www.sciencedirect.com/science/article/pii/S0020025522013366) **Yilu Liu**, Jing Liu, and Kai Wu, “Cost-effective competition on social networks: A multi-objective optimization perspective,” *Information Sciences (IF: 8.2, SCI-I, 2023).*
+5. [[SWEVO'22]](https://www.sciencedirect.com/science/article/pii/S2210650222000414) **Yilu Liu**, Jing Liu, and Xiangyi Teng, “Single-particle optimization for network embedding preserving both local and global information,” *Swarm and Evolutionary Computation (IF: 10.3, SCI-I, 2022).*
+6. [[CHAOS'25]](https://www.sciencedirect.com/science/article/pii/S0960077925009348) Chenjie Gao, Xiangyi Teng, **Yilu Liu**, and Jing Liu, “A bilevel-optimization-driven evolutionary algorithm for community detection in multilayer networks with significant topological differences,” *Chaos, Solitons & Fractals (IF: 5.6, SCI-I, 2025).*
 
 **Conference Paper**
 
