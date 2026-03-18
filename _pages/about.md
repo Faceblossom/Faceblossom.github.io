@@ -32,7 +32,7 @@ Publications
 
 1. [[PPSN'24]](https://link.springer.com/chapter/10.1007/978-3-031-70085-9_5) **Yilu Liu**, Chengyu Lu, Xi Lin, and Qingfu Zhang, “Many-objective cover problem: Discovering few solutions to cover many objectives,” *International Conference on Parallel Problem Solving from Nature (CCF-B).* [(Code)](https://github.com/Faceblossom/Few-for-Many)
 2. [[AAAI'26]](https://arxiv.org/pdf/2508.03082) Fei Liu (Co-First), **Yilu Liu (Co-First)**, Qingfu Zhang, Xialiang Tong, and Mingxuan Yuan, “EoH-S: Evolution of heuristic set using LLMs for automated heuristic design,” *Annual AAAI Conference on Artificial Intelligence (CCF-A).* [(Code)](https://github.com/FeiLiu36/EoH-S)
-3. [[ICLR'25]](https://arxiv.org/pdf/2405.19650) Xi Lin, **Yilu Liu**, Xiaoyuan Zhang, Fei Liu, Zhenkun Wang, and Qingfu Zhang, “Few for many: Tchebycheff set scalarization for many-objective optimization,” *International Conference on Learning Representations (CCF-A).*
+3. [[ICLR'25]](https://arxiv.org/pdf/2405.19650) Xi Lin, **Yilu Liu**, Xiaoyuan Zhang, Fei Liu, Zhenkun Wang, and Qingfu Zhang, “Few for many: Tchebycheff set scalarization for many-objective optimization,” *International Conference on Learning Representations (CCF-A).* [(Code)](https://github.com/Xi-L/STCH-Set)
 4. [[CEC'24]](https://ieeexplore.ieee.org/abstract/document/10612007) Chengyu Lu, **Yilu Liu**, and Qingfu Zhang, “MOEA/D-CMA made better with (1+1)-CMA-ES,” *IEEE Congress on Evolutionary Computation (CCF-C).*
 
 
