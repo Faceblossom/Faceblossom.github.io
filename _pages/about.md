@@ -17,7 +17,7 @@ My current research interests can be summarized as "Few for Many", mainly includ
 2. **Multiobjective Optimization**: Finding few solutions to optimize many objectives.
 
 
-Publications
+Selected Publications
 ------
 
 **Journal Paper**
@@ -26,14 +26,14 @@ Publications
 3. [[TEVC'24]](https://ieeexplore.ieee.org/abstract/document/10606097) **Yilu Liu**, Qingfu Zhang, and Zhenkun Wang, “Community opinion maximization in social networks,” *IEEE Transactions on Evolutionary Computation (IF: 11.7, CAS-I, 2024).*
 4. [[INS'23]](https://www.sciencedirect.com/science/article/pii/S0020025522013366) **Yilu Liu**, Jing Liu, and Kai Wu, “Cost-effective competition on social networks: A multi-objective optimization perspective,” *Information Sciences (IF: 8.2, CAS-I, 2023).*
 5. [[SWEVO'22]](https://www.sciencedirect.com/science/article/pii/S2210650222000414) **Yilu Liu**, Jing Liu, and Xiangyi Teng, “Single-particle optimization for network embedding preserving both local and global information,” *Swarm and Evolutionary Computation (IF: 10.3, CAS-I, 2022).*
-6. [[CHAOS'25]](https://www.sciencedirect.com/science/article/pii/S0960077925009348) Chenjie Gao, Xiangyi Teng, **Yilu Liu**, and Jing Liu, “A bilevel-optimization-driven evolutionary algorithm for community detection in multilayer networks with significant topological differences,” *Chaos, Solitons & Fractals (IF: 5.6, CAS-I, 2025).*
 
 **Conference Paper**
 
-1. [[PPSN'24]](https://link.springer.com/chapter/10.1007/978-3-031-70085-9_5) **Yilu Liu**, Chengyu Lu, Xi Lin, and Qingfu Zhang, “Many-objective cover problem: Discovering few solutions to cover many objectives,” *International Conference on Parallel Problem Solving from Nature (CCF-B).* [(Code)](https://github.com/Faceblossom/Few-for-Many)
-2. [[AAAI'26]](https://arxiv.org/pdf/2508.03082) Fei Liu (Co-First), **Yilu Liu (Co-First)**, Qingfu Zhang, Xialiang Tong, and Mingxuan Yuan, “EoH-S: Evolution of heuristic set using LLMs for automated heuristic design,” *Annual AAAI Conference on Artificial Intelligence (CCF-A).* [(Code)](https://github.com/FeiLiu36/EoH-S)
-3. [[ICLR'25]](https://arxiv.org/pdf/2405.19650) Xi Lin, **Yilu Liu**, Xiaoyuan Zhang, Fei Liu, Zhenkun Wang, and Qingfu Zhang, “Few for many: Tchebycheff set scalarization for many-objective optimization,” *International Conference on Learning Representations (CCF-A).* [(Code)](https://github.com/Xi-L/STCH-Set)
-4. [[CEC'24]](https://ieeexplore.ieee.org/abstract/document/10612007) Chengyu Lu, **Yilu Liu**, and Qingfu Zhang, “MOEA/D-CMA made better with (1+1)-CMA-ES,” *IEEE Congress on Evolutionary Computation (CCF-C).*
+1. [[IJCAI'26]](https://2026.ijcai.org/) **Yilu Liu**, Bo Xue, Yiming Yao, and Qingfu Zhang, “Opinion Maximization in Social Networks: An Inverse Optimization Perspective,” *International Joint Conference on Artificial Intelligence (CCF-B).*
+2. [[PPSN'24]](https://link.springer.com/chapter/10.1007/978-3-031-70085-9_5) **Yilu Liu**, Chengyu Lu, Xi Lin, and Qingfu Zhang, “Many-objective cover problem: Discovering few solutions to cover many objectives,” *International Conference on Parallel Problem Solving from Nature (CCF-B).* [(Code)](https://github.com/Faceblossom/Few-for-Many)
+3. [[AAAI'26]](https://arxiv.org/pdf/2508.03082) Fei Liu (Co-First), **Yilu Liu (Co-First)**, Qingfu Zhang, Xialiang Tong, and Mingxuan Yuan, “EoH-S: Evolution of heuristic set using LLMs for automated heuristic design,” *Annual AAAI Conference on Artificial Intelligence (CCF-A).* [(Code)](https://github.com/FeiLiu36/EoH-S)
+4. [[ICLR'25]](https://arxiv.org/pdf/2405.19650) Xi Lin, **Yilu Liu**, Xiaoyuan Zhang, Fei Liu, Zhenkun Wang, and Qingfu Zhang, “Few for many: Tchebycheff set scalarization for many-objective optimization,” *International Conference on Learning Representations (CCF-A).* [(Code)](https://github.com/Xi-L/STCH-Set)
+5. [[CEC'24]](https://ieeexplore.ieee.org/abstract/document/10612007) Chengyu Lu, **Yilu Liu**, and Qingfu Zhang, “MOEA/D-CMA made better with (1+1)-CMA-ES,” *IEEE Congress on Evolutionary Computation (CCF-C).*
 
 
 Selected Awards
