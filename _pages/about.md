@@ -29,7 +29,7 @@ Selected Publications
 
 **Conference Paper**
 
-1. [[IJCAI'26]](https://2026.ijcai.org/) **Yilu Liu**, Bo Xue, Yiming Yao, and Qingfu Zhang, “Opinion Maximization in Social Networks: An Inverse Optimization Perspective,” *International Joint Conference on Artificial Intelligence (CCF-B).*
+1. [[IJCAI'26]](https://2026.ijcai.org/) **Yilu Liu**, Bo Xue, Yiming Yao, and Qingfu Zhang, “Opinion maximization in social networks: An inverse optimization perspective,” *International Joint Conference on Artificial Intelligence (CCF-B).*
 2. [[PPSN'24]](https://link.springer.com/chapter/10.1007/978-3-031-70085-9_5) **Yilu Liu**, Chengyu Lu, Xi Lin, and Qingfu Zhang, “Many-objective cover problem: Discovering few solutions to cover many objectives,” *International Conference on Parallel Problem Solving from Nature (CCF-B).* [(Code)](https://github.com/Faceblossom/Few-for-Many)
 3. [[AAAI'26]](https://arxiv.org/pdf/2508.03082) Fei Liu (Co-First), **Yilu Liu (Co-First)**, Qingfu Zhang, Xialiang Tong, and Mingxuan Yuan, “EoH-S: Evolution of heuristic set using LLMs for automated heuristic design,” *Annual AAAI Conference on Artificial Intelligence (CCF-A).* [(Code)](https://github.com/FeiLiu36/EoH-S)
 4. [[ICLR'25]](https://arxiv.org/pdf/2405.19650) Xi Lin, **Yilu Liu**, Xiaoyuan Zhang, Fei Liu, Zhenkun Wang, and Qingfu Zhang, “Few for many: Tchebycheff set scalarization for many-objective optimization,” *International Conference on Learning Representations (CCF-A).* [(Code)](https://github.com/Xi-L/STCH-Set)
