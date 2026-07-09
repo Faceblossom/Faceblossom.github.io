@@ -68,8 +68,8 @@ Services
 4. Teaching Assistant, [CS2468 - Data Structures and Data Management](https://www.cityu.edu.hk/catalogue/ug/202425/course/CS2468.htm), Spring'24.
 
 **Hall Management**
-1. Senior Residence Tutor, Yip Yuen Yuk Hing Hall & Jockey Club House, 2026.8-2027.8. (Only 1 of 8 Selected from 510 Ph.D. Residents)
-2. Residence Tutor, Yip Yuen Yuk Hing Hall & Jockey Club House, 2025.8-2026.8. (1 of 8 Selected from 510 Ph.D. Residents)
+1. Senior Residence Tutor, Yip Yuen Yuk Hing Hall & Jockey Club House, from Fall'26 to Fall'27. (Only 1 of 8 Selected from 510 Ph.D. Residents)
+2. Residence Tutor, Yip Yuen Yuk Hing Hall & Jockey Club House, from Fall'25 to Fall'26. (1 of 8 Selected from 510 Ph.D. Residents)
 
 
 
