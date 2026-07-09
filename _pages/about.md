@@ -38,6 +38,7 @@ Selected Publications
 
 Selected Awards
 ------
+
 **Ph.D. Stage**
 1. **[Research Tuition Scholarship](https://scholars.cityu.edu.hk/en/prizes/research-tuition-scholarship-2206)**, City University of Hong Kong, 2025. (Top 23 of 351 C.S. Ph.D. Students)
 2. **[Best Student Paper Award](https://2024.ieeewcci.org/program/awards)**, IEEE Congress on Evolutionary Computation, 2024. (Only 1 of 343 Accepted Papers)
@@ -62,14 +63,14 @@ Services
 4. [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
 
 **Teaching**
-1. Tutorial Teacher (English-Taught), [CS4335 - Design and Analysis of Algorithms](https://www.cityu.edu.hk/catalogue/ug/202425/course/CS4335.htm), Fall'24 & Fall'25.
-2. Teaching Assistant, [CS4335 - Design and Analysis of Algorithms](https://www.cityu.edu.hk/catalogue/ug/202425/course/CS4335.htm), Fall'23.
-3. Teaching Assistant, [CS6491 - Topics in Optimization and its Applications in Computer Science](https://www.cityu.edu.hk/catalogue/pg/202526/course/cs6491.htm), Spring'25 & Spring'26.
-4. Teaching Assistant, [CS2468 - Data Structures and Data Management](https://www.cityu.edu.hk/catalogue/ug/202425/course/CS2468.htm), Spring'24.
+1. **Tutorial Teacher (English-Taught)**, [CS4335 - Design and Analysis of Algorithms](https://www.cityu.edu.hk/catalogue/ug/202425/course/CS4335.htm), Fall'24 & Fall'25.
+2. **Teaching Assistant**, [CS4335 - Design and Analysis of Algorithms](https://www.cityu.edu.hk/catalogue/ug/202425/course/CS4335.htm), Fall'23.
+3. **Teaching Assistant**, [CS6491 - Topics in Optimization and its Applications in Computer Science](https://www.cityu.edu.hk/catalogue/pg/202526/course/cs6491.htm), Spring'25 & Spring'26.
+4. **Teaching Assistant**, [CS2468 - Data Structures and Data Management](https://www.cityu.edu.hk/catalogue/ug/202425/course/CS2468.htm), Spring'24.
 
 **Hall Management**
-1. Senior Residence Tutor, Yip Yuen Yuk Hing Hall & Jockey Club House, from Fall'26 to Fall'27. (Only 1 of 8 Selected from 510 Ph.D. Residents)
-2. Residence Tutor, Yip Yuen Yuk Hing Hall & Jockey Club House, from Fall'25 to Fall'26. (1 of 8 Selected from 510 Ph.D. Residents)
+1. **Senior Residence Tutor**, [Yip Yuen Yuk Hing Hall & Jockey Club House](https://www.cityu.edu.hk/sro/AboutUs/KLT/ResidenceHalls/), from Fall'26 to Fall'27. (Only 1 of 8 Selected from 510 Ph.D. Residents)
+2. **Residence Tutor**, [Yip Yuen Yuk Hing Hall & Jockey Club House](https://www.cityu.edu.hk/sro/AboutUs/KLT/ResidenceHalls/), from Fall'25 to Fall'26. (1 of 8 Selected from 510 Ph.D. Residents)
 
 
 
